@@ -10,3 +10,4 @@ protobuf
 tensorflow==2.15
 tensorflow-hub
 tensorflow-docs
+pillow_heif
