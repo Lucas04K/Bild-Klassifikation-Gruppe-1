@@ -1,0 +1,8 @@
+dataset/all
+dataset/test
+dataset/val
+dataset/train
+
+.venv
+.idea
+.DS_Store
